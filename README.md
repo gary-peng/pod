@@ -1,6 +1,14 @@
 # POD
-The source code for POD
+The source code and STL files for POD
 
-Learn more about this project here: https://hackaday.io/project/166949-pod
+# Print settings:
 
-View the Kickstarter here: https://www.kickstarter.com/projects/garypeng/quickstarter-pod-a-focus-tool-for-the-digital-age
+- Top & Bottom - White PLA, 20% infill, no support
+
+- Divider - Black PLA, 100% infill, no support
+
+# Learn more
+
+Hackaday: https://hackaday.io/project/166949-pod
+
+Kickstarter: https://www.kickstarter.com/projects/garypeng/quickstarter-pod-a-focus-tool-for-the-digital-age
