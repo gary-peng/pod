@@ -2,10 +2,9 @@
 The source code and STL files for POD
 
 # Print settings:
+- Top & Bottom - White PLA, 20% infill, no support, 0.2mm layer height, flat side down
 
-- Top & Bottom - White PLA, 20% infill, no support, 0.2mm layer height
-
-- Divider - Black PLA, 100% infill, no support, 0.2mm layer height
+- Divider - Black PLA, 100% infill, no support, 0.2mm layer height, flat side down
 
 # Learn more
 
